@@ -88,7 +88,7 @@ const Footer = () => {
         <p>
           <p className=" text-center py-4">
             @copyright 2023 by
-            <span>Muhammad Reza Sami Putra</span> | All rights reserved
+            <span> Muhammad Reza Sami Putra</span> | All rights reserved
           </p>
         </p>
       </div>
