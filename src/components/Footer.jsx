@@ -61,19 +61,19 @@ const Footer = () => {
           </nav>
         </div>
         <div>
-          <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Contact Us</h1>
+          <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Kontak</h1>
           <nav className=" flex flex-col gap-2">
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
               href="/"
             >
-              FoodieWeb@email.com
+              restoweb@gmail.com
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
               href="/"
             >
-              +64 958 248 966
+              +62 21 234 5678
             </a>
             <a
               className=" hover:text-brightColor transition-all cursor-pointer"
@@ -87,9 +87,8 @@ const Footer = () => {
       <div>
         <p>
           <p className=" text-center py-4">
-            @copyright developed by
-            <span className=" text-brightColor"> champion programmers</span> |
-            All rights reserved
+            @copyright 2023 by
+            <span>Muhammad Reza Sami Putra</span> | All rights reserved
           </p>
         </p>
       </div>
